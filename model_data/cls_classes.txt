@@ -1,0 +1,17 @@
+mage
+fix_machine
+map_enter
+load
+small_map_right
+small_map_left
+small_map_up
+small_map_down
+door
+door_close
+monster
+item
+pick
+gold
+boss_hp
+continue
+forward
